@@ -1,2 +1,10 @@
-# luopang60s_collection
-罗胖六十秒锦集
+# 罗胖60秒锦集
+*此仓库并非程序源码仓库，望周知*
+
+这个仓库用来收集罗胖60秒的微信链接。
+
+为这个仓库做出贡献:[Wiki_Contribute]()
+
+关于这个仓库:[Wiki_About]()
+
+联系作者:[Wiki_Contect]()
